@@ -38,6 +38,10 @@ El modelo fue desarrollado en Python y desplegado como aplicación web utilizand
 - `requirements.txt`: Lista de dependencias necesarias para correr la app.
 
 ---
+## 📚 Créditos
+
+Desarrollado por **Guillermo Bejarano Reyes** como ejercicio de aprendizaje y aplicación de modelos de predicción en entornos reales.
+
 
 ## 📦 Requisitos
 
